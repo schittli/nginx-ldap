@@ -1,3 +1,10 @@
+# ⚠️ This repository is here for reference only<br/> - my changes to nginx-ldap are on GitLab:
+
+» My Fork **with changes** on GitLab: https://gitlab.com/jig-opensource/source-code/nginx-ldap
+
+
+**❯ Here, this is the original readme.md:**
+
 # LDAP auth daemon for nginx
 
 Python multithread daemon to be used via [auth_request](http://nginx.org/en/docs/http/ngx_http_auth_request_module.html). Based on reference design [nginx-ldap-auth](https://github.com/nginxinc/nginx-ldap-auth), which was simplified and group/user restrictions were added.  
